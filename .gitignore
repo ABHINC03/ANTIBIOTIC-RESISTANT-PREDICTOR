@@ -1,2 +1,5 @@
-!model_build.ipynb
-!app1.py
+*.jpg
+*.png
+*.zip
+my_blast_results.xml
+*.fasta
