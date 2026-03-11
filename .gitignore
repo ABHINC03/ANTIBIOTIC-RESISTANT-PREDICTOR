@@ -3,3 +3,5 @@
 *.zip
 my_blast_results.xml
 *.fasta
+*.xml
+*.db
