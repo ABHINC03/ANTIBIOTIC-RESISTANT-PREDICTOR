@@ -7,3 +7,6 @@ my_blast_results.xml
 *.db
 *.joblib
 *.csv
+*.json
+__pycache__/
+.vscode/
